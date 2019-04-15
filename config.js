@@ -27,3 +27,4 @@ PRIMARY KEY (id)
 );
 
 */
+// Thank you Mr. Mukesh Chapagain: http://blog.chapagain.com.np/node-js-express-mysql-simple-add-edit-delete-view-crud/
